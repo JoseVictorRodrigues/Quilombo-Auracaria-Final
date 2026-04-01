@@ -117,7 +117,7 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato através do formulário no site ou envie um email para [seu-email@exemplo.com].
+Para dúvidas ou sugestões, entre em contato através do formulário no site ou envie um email para.
 
 ## Documentação Técnica
 
